@@ -23,7 +23,7 @@ Stimulsoft Reports.Angular is a cross-platform set of tools for working with rep
 
 You can try the [Live Demo](http://demo.stimulsoft.com/#Net)
 
-Read more about [Stimulsoft Reports.Net](https://www.stimulsoft.com/en/products/reports-angular)
+Read more about [Stimulsoft Reports.Angular](https://www.stimulsoft.com/en/products/reports-angular)
 
 [Free Download](https://www.stimulsoft.com/en/downloads)
 
