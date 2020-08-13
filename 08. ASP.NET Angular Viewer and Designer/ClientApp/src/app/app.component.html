@@ -1,0 +1,15 @@
+<stimulsoft-viewer-angular
+  *ngIf="showViewer"
+  [requestUrl]="'http://localhost:52076/Viewer/{action}'"
+  [action]="'InitViewer'"
+  [height]="'600px'"
+  (design)="showViewer = false"
+></stimulsoft-viewer-angular>
+<stimulsoft-designer-angular
+  *ngIf="!showViewer"
+  [requestUrl]="'http://localhost:52076/Designer/Get'"
+  [height]="'600px'"
+  [width]="'100%'"
+>
+  Loading designer...
+</stimulsoft-designer-angular>
