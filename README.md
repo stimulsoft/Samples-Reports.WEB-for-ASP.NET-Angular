@@ -18,7 +18,7 @@ They are all combined in a Visual Studio solution (.sln-file).
 # Running samples
 In order to start simply open the Visual Studio solution file in the IDE Visual Studio and run the required project as Startup Project. The required libraries will be automatically downloaded from NuGet repository.
 
-# Stimulsoft Reports.Net
+# Stimulsoft Reports.Angular
 Stimulsoft Reports.Angular is a cross-platform set of tools for working with reports, designed for using it in Angular framework. Our solution is compatible with Angular 9 and higher. The reporting tool has everything you need to create, edit, build, view, and export reports.
 
 You can try the [Live Demo](http://demo.stimulsoft.com/#Net)
