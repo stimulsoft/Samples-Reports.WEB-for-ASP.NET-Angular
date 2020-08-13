@@ -4,14 +4,14 @@
 
 # Overview
 This repository has some examples (Visual Studio Projects) each in different folders:
-* 01. Create simple application with Angular Viewer
-* 02. Use parameters from Angular Viewer
-* 03. Localization
-* 04. Send Report by Email
-* 05. Angular Viewer Events
-* 06. API Methods
-* 07. Designer
-* 08. ASP.NET Angular Viewer and Designer
+* Create simple application with Angular Viewer
+* Use parameters from Angular Viewer
+* Localization
+* Send Report by Email
+* Angular Viewer Events
+* API Methods
+* Designer
+* ASP.NET Angular Viewer and Designer
 
 They are all combined in a Visual Studio solution (.sln-file).
 
