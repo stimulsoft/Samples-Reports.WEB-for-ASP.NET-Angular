@@ -40,7 +40,7 @@ namespace Designer.Controllers
         public IActionResult Post()
         {
             var requestParams = StiAngularDesigner.GetRequestParams(this);
-            if (requestParams.Component == StiComponentType.Designer)
+            if (requestParams.ComponentType == StiComponentType.Designer)
             {
                 switch (requestParams.Action)
                 {

@@ -40,7 +40,7 @@ namespace ASP_NET_Angular_Viewer_and_Designer.Controllers
 				return StiMvcDesigner.GetAngularScriptsResult(requestParams, options);
 			}
 
-			if (requestParams.Component == StiComponentType.Designer)
+			if (requestParams.ComponentType == StiComponentType.Designer)
 			{
 				switch (requestParams.Action)
 				{

@@ -1,6 +1,6 @@
-# C# ASP.NET and .NET Core samples for Stimulsoft Reports.Angular
+# C# ASP.NET, .NET Core and .NET 5.0 samples for Stimulsoft Reports.Angular
 
-#### This repository contains the source code of the examples of usage Stimulsoft Reports.Angular reporting tool in the Angular applications, using TypeScript and C# code, and Angular components for ASP.NET MVC and .NET Core platforms.
+#### This repository contains the source code of the examples of usage Stimulsoft Reports.Angular reporting tool in the Angular applications, using TypeScript and C# code, and Angular components for ASP.NET MVC, .NET Core and .NET 5.0 platforms.
 
 # Overview
 This repository has some examples (Visual Studio Projects) each in different folders:
@@ -12,6 +12,7 @@ This repository has some examples (Visual Studio Projects) each in different fol
 * API Methods
 * Designer
 * ASP.NET Angular Viewer and Designer
+* NET 5.0+Angular11 - Angular Viewer Events
 
 They are all combined in a Visual Studio solution (.sln-file).
 
