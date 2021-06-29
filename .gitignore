@@ -4,10 +4,11 @@
 /*/packages/
 /*/bin/
 /*/obj/
-/*/node_modules/
+/*/*/node_modules/
 
 # Files
 *.user
 *.pubxml
 *.PublishSettings
 .DS_Store
+/*/*/package-lock.json
