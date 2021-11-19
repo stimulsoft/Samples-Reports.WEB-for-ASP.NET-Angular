@@ -1,4 +1,4 @@
-#04. Send Report by Email
+# Sending a Report by Email
 
 This example illustrates how to send exported reports by Email using the viewer
 
