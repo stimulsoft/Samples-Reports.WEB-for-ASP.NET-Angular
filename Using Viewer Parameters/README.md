@@ -1,4 +1,4 @@
-#02. Use parameters from Angular Viewer
+# Using Viewer Parameters
 
 This example illustrates how to pass necessary properties from Angular to server.
 
