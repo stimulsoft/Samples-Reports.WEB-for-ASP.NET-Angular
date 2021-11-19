@@ -1,6 +1,6 @@
-# Integrating the Report Viewer into an Application
+# Integrating the Report Viewer and Report Designer into an Application in ASP.NET
 
-This example illustrates how use  Angular Viewer with ASP.NET MVC. 
+This example illustrates how to use Angular Viewer with ASP.NET MVC. 
 
 ### Installation and running
 Use npm to install required modules from ClientApp directory:
