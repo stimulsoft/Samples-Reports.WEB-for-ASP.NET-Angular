@@ -1,4 +1,4 @@
-#06. API Methods
+# Using API Methods
 
 This example illustrates how execute methods of StimulsoftViewerComponent. 
 StimulsoftViewerComponent contains api object that allow to manipulate viewer or view states.
