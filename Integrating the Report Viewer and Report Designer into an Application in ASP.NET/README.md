@@ -1,4 +1,4 @@
-#06. API Methods
+# Integrating the Report Viewer into an Application
 
 This example illustrates how use  Angular Viewer with ASP.NET MVC. 
 
