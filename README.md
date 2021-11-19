@@ -4,15 +4,15 @@
 
 # Overview
 This repository has some examples (Visual Studio Projects) each in different folders:
-* Create simple application with Angular Viewer
-* Use parameters from Angular Viewer
-* Localization
-* Send Report by Email
-* Angular Viewer Events
-* API Methods
-* Designer
-* ASP.NET Angular Viewer and Designer
-* NET 5.0+Angular11 - Angular Viewer Events
+* Integrating the Report Viewer into an Application
+* Using Viewer Parameters
+* Localizing the Viewer
+* Sending a Report by Email
+* Using Viewer Events
+* Using API Methods
+* Using Designer Events
+* Integrating the Report Viewer and Report Designer into an Application in ASP.NET
+* Using Viewer Events in .NET 5.0
 
 They are all combined in a Visual Studio solution (.sln-file).
 
