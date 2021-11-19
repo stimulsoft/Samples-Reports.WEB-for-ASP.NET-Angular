@@ -1,4 +1,4 @@
-#03. Localization Angular Viewer
+# Localizing the Viewer
 
 This example illustrates how to to localize the viewer. To select localization, it is enough to set the path to the localization XML file as the value of the Localization option.
 
