@@ -1,4 +1,4 @@
-#05. Angular Viewer Events
+# Using Viewer Events
 
 This example illustrates how to use Stimulsoft Angular Viewer events.
 
