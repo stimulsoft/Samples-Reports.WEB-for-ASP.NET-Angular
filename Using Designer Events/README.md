@@ -1,4 +1,4 @@
-#07. Designer
+# Using Designer Events
 
 This example illustrates how to use Angular Designer component.
 When click  Design button in Viewer, Viewer close & shows Designer:
