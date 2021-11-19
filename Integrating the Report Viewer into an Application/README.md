@@ -1,4 +1,4 @@
-#01. Create simple application with Angular Viewer
+# Integrating the Report Viewer into an Application
 
 This example illustrates loading of the report with Angular Viewer.
 
