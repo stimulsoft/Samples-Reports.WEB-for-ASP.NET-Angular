@@ -611,7 +611,7 @@
     <StiDatePicker>Выбар даты</StiDatePicker>
     <StiEmptyBand>Пустыя дадзеныя</StiEmptyBand>
     <StiFooterBand>Падрахунак дадзеных</StiFooterBand>
-    <StiGauge>Індыкатар</StiGauge>
+    <StiGauge>Вымерны прыбор</StiGauge>
     <StiGroupFooterBand>Падрахунак групы</StiGroupFooterBand>
     <StiGroupHeaderBand>Загаловак групы</StiGroupHeaderBand>
     <StiHeaderBand>Загаловак дадзеных</StiHeaderBand>
@@ -1750,7 +1750,7 @@
   <Gauge>
     <AddNewItem>Дадаць новы элемент</AddNewItem>
     <BarRangeList>Панэль дыяпазоннага шэрагу</BarRangeList>
-    <GaugeEditorForm>Рэдактар ​​індыкатараў</GaugeEditorForm>
+    <GaugeEditorForm>Рэдактар вымяральнага прыбора</GaugeEditorForm>
     <Kind>Выгляд</Kind>
     <LinearBar>Лінейная панэль</LinearBar>
     <LinearMarker>Лінейны маркер</LinearMarker>
@@ -2545,7 +2545,7 @@
     <YourTimeSessionHasExpired>Час сесіі скончыўся!</YourTimeSessionHasExpired>
     <YourTrialHasExpired>Тэрмін вашай спробавай версіі мінуў</YourTrialHasExpired>
     <YourTrialWillExpire>Тэрмін дзеяння спробавай версіі сцякае цераз {0} дзён.</YourTrialWillExpire>
-    <YouUsingTrialVersion>Вы скарыстаеце тэставую версію!</YouUsingTrialVersion>
+    <YouUsingTrialVersion>Вы карыстаеце тэставую версію!</YouUsingTrialVersion>
   </Notices>
   <NuGet>
     <AlreadyDownloaded>Ужо запампавана</AlreadyDownloaded>
@@ -4409,7 +4409,7 @@
     <ShrinkFontToFitMinimumSize>Паменшыць шрыфт каб змясціць мінімальны памер</ShrinkFontToFitMinimumSize>
     <Side>Бок</Side>
     <Sides>Бакi</Sides>
-    <Simple>Простая</Simple>
+    <Simple>Просты</Simple>
     <Size>Памер</Size>
     <SizeMode>Спосаб змены памеру</SizeMode>
     <Skin>Скін</Skin>
