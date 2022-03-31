@@ -20,8 +20,8 @@
     "@angular/platform-browser-dynamic": "~10.0.0",
     "@angular/router": "~10.0.0",
     "rxjs": "~6.5.5",
-    "stimulsoft-designer-angular": "2022.2.1",
-    "stimulsoft-viewer-angular": "2022.2.1",
+    "stimulsoft-designer-angular": "2022.2.2",
+    "stimulsoft-viewer-angular": "2022.2.2",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.3"
   },
