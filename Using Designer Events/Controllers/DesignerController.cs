@@ -7,6 +7,7 @@ using Stimulsoft.Report;
 using Stimulsoft.Report.Angular;
 using Stimulsoft.Report.Mvc;
 using Stimulsoft.Report.Web;
+using Stimulsoft.System.Web.UI.WebControls;
 
 namespace Designer.Controllers
 {
@@ -30,6 +31,7 @@ namespace Designer.Controllers
             if (requestParams.Action == StiAction.Undefined)
             {
                 var options = new StiAngularDesignerOptions();
+                options.Height = Unit.Percentage(100);
                 return StiAngularDesigner.DesignerDataResult(requestParams, options);
             }
 

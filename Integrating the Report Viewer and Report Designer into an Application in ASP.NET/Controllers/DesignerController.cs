@@ -7,6 +7,7 @@ using System.Data;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using System.Web.UI.WebControls;
 
 namespace Integrating_the_Report_Viewer_and_Report_Designer_into_an_Application_in_ASP_NET.Controllers
 {
@@ -37,7 +38,8 @@ namespace Integrating_the_Report_Viewer_and_Report_Designer_into_an_Application_
 			if (requestParams.Action == StiAction.Undefined)
 			{
 				var options = new StiMvcDesignerOptions();
-				return StiMvcDesigner.GetAngularScriptsResult(requestParams, options);
+                options.Height = Unit.Percentage(100);
+                return StiMvcDesigner.GetAngularScriptsResult(requestParams, options);
 			}
 
 			if (requestParams.ComponentType == StiComponentType.Designer)
