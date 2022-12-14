@@ -1,4 +1,4 @@
-# Using Viewer Events in .NET 5.0
+# Using Viewer Events in .NET 6.0
 
 This example illustrates how to use Stimulsoft Angular Viewer events.
 

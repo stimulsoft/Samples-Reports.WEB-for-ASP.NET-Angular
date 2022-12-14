@@ -19,7 +19,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Using Designer Events", "Us
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integrating the Report Viewer and Report Designer into an Application in ASP.NET", "Integrating the Report Viewer and Report Designer into an Application in ASP.NET\Integrating the Report Viewer and Report Designer into an Application in ASP.NET.csproj", "{B29246A9-1580-4F73-9E61-62BFF686761A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Using Viewer Events in .NET 5.0", "Using Viewer Events in .NET 5.0\Using Viewer Events in .NET 5.0.csproj", "{89AD0FC2-EF8D-4F9E-BC79-0261A8621153}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Using Viewer Events in .NET 6.0", "Using Viewer Events in .NET 6.0\Using Viewer Events in .NET 6.0.csproj", "{89AD0FC2-EF8D-4F9E-BC79-0261A8621153}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
