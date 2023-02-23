@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.SpaServices.AngularCli;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using System;
 
 namespace Using_Viewer_Events
 {
@@ -64,6 +65,7 @@ namespace Using_Viewer_Events
                 if (env.IsDevelopment())
                 {
                     spa.UseAngularCliServer(npmScript: "start");
+                    spa.Options.StartupTimeout = TimeSpan.FromSeconds(25);
                 }
             });
         }
