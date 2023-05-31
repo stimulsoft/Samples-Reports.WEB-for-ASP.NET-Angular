@@ -6,7 +6,7 @@ using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
 
-namespace Integrating_the_Report_Viewer_and_Report_Designer_into_an_Application_in_ASP_NET
+namespace Integrating_the_Report_Components_in_ASP_NET_App
 {
     public class MvcApplication : System.Web.HttpApplication
     {

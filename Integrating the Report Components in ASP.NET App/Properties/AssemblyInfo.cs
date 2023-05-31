@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Integrating_the_Report_Viewer_and_Report_Designer_into_an_Application_in_ASP_NET")]
+[assembly: AssemblyTitle("Integrating_the_Report_Components_in_ASP_NET_App")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Integrating_the_Report_Viewer_and_Report_Designer_into_an_Application_in_ASP_NET")]
+[assembly: AssemblyProduct("Integrating_the_Report_Components_in_ASP_NET_App")]
 [assembly: AssemblyCopyright("Copyright © 2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

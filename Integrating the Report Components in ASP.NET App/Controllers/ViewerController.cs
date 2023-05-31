@@ -8,7 +8,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace Integrating_the_Report_Viewer_and_Report_Designer_into_an_Application_in_ASP_NET.Controllers
+namespace Integrating_the_Report_Components_in_ASP_NET_App.Controllers
 {
     public class ViewerController : Controller
     {
