@@ -31,10 +31,10 @@ In order to start simply open the Visual Studio solution file in the IDE and run
 Stimulsoft Reports.ANGULAR is a cross-platform set of tools for report creating developed to be used in conjunction with the Angular framework. Our solution is compatible with Angular 13 and above, and contains everything you need to create, edit, view and export reports. The server side of the product uses .NET Core and ASP.NET MVC.
 
 ## Useful links
-
 * [Live Demo](http://demo.stimulsoft.com/#Net)
 * [Product Page](https://www.stimulsoft.com/en/products/reports-angular)
 * [Free Download](https://www.stimulsoft.com/en/downloads)
 * [NuGet for .NET Framework](https://www.nuget.org/packages/Stimulsoft.Reports.Angular)
 * [NuGet for .NET Core](https://www.nuget.org/packages/Stimulsoft.Reports.Angular.NetCore)
+* [Documentation](https://www.stimulsoft.com/en/documentation/online/programming-manual/index.html?reports_web_angular.htm)
 * [License](LICENSE.md)
