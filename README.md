@@ -3,7 +3,7 @@
 #### This repository contains the source code of the examples of usage Stimulsoft Reports.ANGULAR reporting tool in the ASP.NET Angular apps, using TypeScript and C# code, and Angular embedded components. The report generator and examples are designed for ASP.NET MVC with .NET Framework 4.5.2, 4.6, 4.7, 4.8 versions, and .NET Core 3.1, .NET 5.0, .NET 6.0, .NET 7.0 platforms.
 
 ## Overview
-This repository contains a set of examples (Visual Studio projects), each in different folders:
+This repository has a set of examples (Visual Studio projects), each in different folders:
 * [Integrating the Report Components in ASP.NET App](https://github.com/stimulsoft/Samples-Reports.WEB-for-ASP.NET-Angular/tree/master/Integrating%20the%20Report%20Components%20in%20ASP.NET%20App)
 * [Integrating the Report Viewer into an Application](https://github.com/stimulsoft/Samples-Reports.WEB-for-ASP.NET-Angular/tree/master/Integrating%20the%20Report%20Viewer%20into%20an%20Application)
 * [Localizing the Viewer](https://github.com/stimulsoft/Samples-Reports.WEB-for-ASP.NET-Angular/tree/master/Localizing%20the%20Viewer)
@@ -36,5 +36,5 @@ Stimulsoft Reports.ANGULAR is a cross-platform set of tools for report creating 
 * [Free Download](https://www.stimulsoft.com/en/downloads)
 * [NuGet for .NET Framework](https://www.nuget.org/packages/Stimulsoft.Reports.Angular)
 * [NuGet for .NET Core](https://www.nuget.org/packages/Stimulsoft.Reports.Angular.NetCore)
-* [Documentation](https://www.stimulsoft.com/en/documentation/online/programming-manual/index.html?reports_web_angular.htm)
+* [Documentation](https://www.stimulsoft.com/en/documentation/online/programming-manual/reports_web_angular.htm)
 * [License](LICENSE.md)
