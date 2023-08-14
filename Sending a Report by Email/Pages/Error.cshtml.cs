@@ -17,6 +17,7 @@ namespace Sending_a_Report_by_Email.Pages
         public ErrorModel(ILogger<ErrorModel> logger)
         {
             _logger = logger;
+            
         }
 
         public string RequestId { get; set; }

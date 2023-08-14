@@ -30,7 +30,7 @@ namespace Designer.Controllers
             var requestParams = StiAngularDesigner.GetRequestParams(this);
             if (requestParams.Action == StiAction.Undefined)
             {
-                var options = new StiAngularDesignerOptions();
+                StiAngularDesignerOptions options = new StiAngularDesignerOptions();
                 options.Height = Unit.Percentage(100);
                 return StiAngularDesigner.DesignerDataResult(requestParams, options);
             }
