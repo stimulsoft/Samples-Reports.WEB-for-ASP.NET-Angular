@@ -2,11 +2,6 @@
 
 This example illustrates how to use Stimulsoft Angular Viewer events.
 
-### Installation 
-Use npm to install required modules from ClientApp directory:
-
-    npm install
-
 ### Step by step
   
 #### app.component.html

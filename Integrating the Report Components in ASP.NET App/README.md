@@ -2,15 +2,6 @@
 
 This example illustrates how to use Angular Viewer with ASP.NET MVC. 
 
-### Installation and running
-Use npm to install required modules from ClientApp directory:
-
-    npm install
-Run angular server
-
-    ng serve
-Run project & navigate to [http://localhost:4200/](http://localhost:4200/)	
-
 ### Step by step
   
 #### ViewerController.cs

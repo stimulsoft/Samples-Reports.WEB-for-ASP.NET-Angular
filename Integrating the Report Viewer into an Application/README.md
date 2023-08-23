@@ -2,11 +2,6 @@
 
 This example illustrates loading of the report with Angular Viewer.
 
-### Installation 
-Use npm to install required modules from ClientApp directory:
-
-    npm install
-
 ### Step by step
 
 #### app.component.html

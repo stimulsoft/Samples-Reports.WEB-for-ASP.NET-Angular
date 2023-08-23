@@ -3,11 +3,6 @@
 This example illustrates how execute methods of StimulsoftViewerComponent. 
 StimulsoftViewerComponent contains api object that allow to manipulate viewer or view states.
 
-### Installation 
-Use npm to install required modules from ClientApp directory:
-
-    npm install
-
 ### Step by step
   
 #### app.component.ts

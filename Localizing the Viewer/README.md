@@ -2,11 +2,6 @@
 
 This example illustrates how to to localize the viewer. To select localization, it is enough to set the path to the localization XML file as the value of the Localization option.
 
-### Installation 
-Use npm to install required modules from ClientApp directory:
-
-    npm install
-
 ### Step by step
   
 #### ViewerController.cs

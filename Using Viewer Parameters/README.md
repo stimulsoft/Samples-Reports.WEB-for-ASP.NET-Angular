@@ -2,11 +2,6 @@
 
 This example illustrates how to pass necessary properties from Angular to server.
 
-### Installation 
-Use npm to install required modules from ClientApp directory:
-
-    npm install
-
 ### Step by step
 
 #### app.component.ts
