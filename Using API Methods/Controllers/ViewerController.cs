@@ -28,7 +28,7 @@ namespace Using_API_Methods.Controllers
         {
             var requestParams = StiAngularViewer.GetRequestParams(this);
 
-            var options = new StiAngularViewerOptions();
+            StiAngularViewerOptions options = new StiAngularViewerOptions();
             options.Actions.GetReport = "GetReport";
             options.Actions.ViewerEvent = "ViewerEvent";
             options.Appearance.ScrollbarsMode = true;

@@ -28,11 +28,15 @@ namespace Sending_a_Report_by_Email.Controllers
         {
             var requestParams = StiAngularViewer.GetRequestParams(this);
 
-            var options = new StiAngularViewerOptions();
+            StiAngularViewerOptions options = new StiAngularViewerOptions();
             options.Actions.GetReport = "GetReport";
+
             options.Actions.EmailReport = "EmailReport";
+
             options.Actions.ViewerEvent = "ViewerEvent";
+
             options.Appearance.ScrollbarsMode = true;
+
             options.Toolbar.ShowSendEmailButton = true;
 
             return StiAngularViewer.ViewerDataResult(requestParams, options);
