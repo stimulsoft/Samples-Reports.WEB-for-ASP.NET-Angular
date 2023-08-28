@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integrating the Report Components in ASP.NET App", "Integrating the Report Components in ASP.NET App\Integrating the Report Components in ASP.NET App.csproj", "{B29246A9-1580-4F73-9E61-62BFF686761A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B29246A9-1580-4F73-9E61-62BFF686761A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B29246A9-1580-4F73-9E61-62BFF686761A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B29246A9-1580-4F73-9E61-62BFF686761A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B29246A9-1580-4F73-9E61-62BFF686761A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B9E1A3D-99E9-4AE5-A940-ED926A0EE0DE}
+	EndGlobalSection
+EndGlobal
