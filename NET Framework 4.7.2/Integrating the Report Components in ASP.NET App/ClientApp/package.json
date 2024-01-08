@@ -23,7 +23,7 @@
     "stimulsoft-viewer-angular": "latest",
     "stimulsoft-designer-angular": "latest",
     "tslib": "^2.3.0",
-    "zone.js": "~0.11.4"
+    "zone.js": "~0.13.1"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^15.2.10",
