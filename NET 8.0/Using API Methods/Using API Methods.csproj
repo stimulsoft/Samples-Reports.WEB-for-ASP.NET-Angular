@@ -10,7 +10,7 @@
     <BuildServerSideRenderer>false</BuildServerSideRenderer>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.SpaServices.Extensions" Version="6.0.12" />
+    <PackageReference Include="Microsoft.AspNetCore.SpaServices.Extensions" Version="8.0.7" />
     <PackageReference Include="Stimulsoft.Reports.Angular.NetCore" Version="2024.3.2" />
   </ItemGroup>
   <ItemGroup>
