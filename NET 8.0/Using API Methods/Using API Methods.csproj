@@ -11,7 +11,7 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.SpaServices.Extensions" Version="8.0.7" />
-    <PackageReference Include="Stimulsoft.Reports.Angular.NetCore" Version="2024.4.5" />
+    <PackageReference Include="Stimulsoft.Reports.Angular.NetCore" Version="2025.1.1" />
   </ItemGroup>
   <ItemGroup>
     <!-- Don't publish the SPA source files, but do show them in the project files list -->
