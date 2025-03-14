@@ -1,7 +1,4 @@
-﻿using System.Web;
-using System.Web.Optimization;
-
-namespace Integrating_the_Report_Components_in_ASP_NET_App
+﻿namespace Integrating_the_Report_Components_in_ASP_NET_App
 {
     public class BundleConfig
     {

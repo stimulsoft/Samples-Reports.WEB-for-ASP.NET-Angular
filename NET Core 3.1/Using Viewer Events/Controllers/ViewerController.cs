@@ -1,15 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
-using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
+﻿using Microsoft.AspNetCore.Mvc;
 using Stimulsoft.Report;
 using Stimulsoft.Report.Angular;
-using Stimulsoft.Report.Mvc;
-using Stimulsoft.Report.Web;
 
 namespace Using_Viewer_Events.Controllers
 {

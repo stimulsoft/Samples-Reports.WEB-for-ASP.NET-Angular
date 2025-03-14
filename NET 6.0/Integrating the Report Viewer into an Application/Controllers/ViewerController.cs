@@ -1,11 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Stimulsoft.Report;
 using Stimulsoft.Report.Angular;
-using Stimulsoft.Report.Web;
 
 namespace Integrating_the_Report_Viewer_into_an_Application.Controllers
 {
