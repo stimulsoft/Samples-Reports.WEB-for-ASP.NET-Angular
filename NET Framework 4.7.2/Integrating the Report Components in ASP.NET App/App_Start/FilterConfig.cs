@@ -1,4 +1,6 @@
-﻿namespace Integrating_the_Report_Components_in_ASP_NET_App
+﻿using System.Web.Mvc;
+
+namespace Integrating_the_Report_Components_in_ASP_NET_App
 {
     public class FilterConfig
     {

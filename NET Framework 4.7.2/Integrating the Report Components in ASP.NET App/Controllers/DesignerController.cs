@@ -1,4 +1,8 @@
-﻿using System.Web.UI.WebControls;
+﻿using Stimulsoft.Report;
+using Stimulsoft.Report.Mvc;
+using Stimulsoft.Report.Web;
+using System.Web.Mvc;
+using System.Web.UI.WebControls;
 
 namespace Integrating_the_Report_Components_in_ASP_NET_App.Controllers
 {
