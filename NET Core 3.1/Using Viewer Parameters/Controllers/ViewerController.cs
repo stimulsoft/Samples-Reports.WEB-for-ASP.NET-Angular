@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
+using Stimulsoft.Base.Json;
+using Stimulsoft.Base.Json.Linq;
 using Stimulsoft.Report;
 using Stimulsoft.Report.Angular;
 using System;
@@ -42,14 +42,8 @@ namespace Using_Viewer_Parameters.Controllers
             {
                 var data = Convert.FromBase64String(properties);
                 var json = Encoding.UTF8.GetString(data);
-                JContainer container = JsonConvert.DeserializeObject<JContainer>(json);
-                foreach (JToken token in container.Children())
-                {
-                    if (((JProperty)token).Name == "reportName")
-                    {
-                        reportName = ((JProperty)token).Value.Value<string>();
-                    }
-                }
+                var jsonObject = JsonConvert.DeserializeObject(json) as JToken;
+                reportName = jsonObject["reportName"]?.ToString() ?? reportName;
             }
 
             var report = StiReport.CreateNewReport();
