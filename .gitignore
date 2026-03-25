@@ -13,3 +13,18 @@
 *.PublishSettings
 .DS_Store
 /*/*/*/package-lock.json
+/NET 6.0/Integrating the Report Viewer into an Application/wwwroot
+/NET 6.0/Using Designer Events/wwwroot
+/NET 6.0/Integrating the Report Viewer into Standalone Angular Component/wwwroot
+/NET 8.0/Using Viewer Parameters/wwwroot
+/NET 8.0/Using Viewer Events/wwwroot
+/NET 8.0/Using Designer Events/wwwroot
+/NET 8.0/Using API Methods/wwwroot
+/NET 8.0/Sending a Report by Email/wwwroot
+/NET 8.0/Localizing the Viewer/wwwroot
+/NET 8.0/Integrating the Report Viewer into an Application/wwwroot
+/NET 6.0/Using Viewer Parameters/wwwroot
+/NET 6.0/Using Viewer Events/wwwroot
+/NET 6.0/Using API Methods/wwwroot
+/NET 6.0/Sending a Report by Email/wwwroot
+/NET 6.0/Localizing the Viewer/wwwroot

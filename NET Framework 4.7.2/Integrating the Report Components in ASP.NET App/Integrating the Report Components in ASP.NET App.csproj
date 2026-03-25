@@ -150,10 +150,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\3rdpartylicenses.txt" />
+    <Content Include="Content\favicon.ico" />
     <Content Include="Content\index.html" />
     <Content Include="Content\main.js" />
     <Content Include="Content\polyfills.js" />
-    <Content Include="Content\runtime.js" />
     <Content Include="Content\styles.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
@@ -163,6 +163,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="build-angular.cmd" />
+    <Content Include="Content\prerendered-routes.json" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
