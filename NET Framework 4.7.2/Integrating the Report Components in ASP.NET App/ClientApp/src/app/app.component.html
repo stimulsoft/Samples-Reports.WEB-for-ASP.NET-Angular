@@ -6,12 +6,11 @@
   (design)="showViewer = false"
 ></stimulsoft-viewer-angular>
 <stimulsoft-designer-angular
-#designer
+  #designer
   *ngIf="!showViewer"
   [requestUrl]="'http://localhost:52076/Designer/Get'"
   [height]="'100%'"
   [width]="'100%'"
-			(designerLoaded)="this.designer.designerEl.nativeElement.style.height='100%'"
->
+  (designerLoaded)="this.designer.designerEl.nativeElement.style.height='100%'">
   Loading designer...
 </stimulsoft-designer-angular>

@@ -5,6 +5,7 @@ import { provideHttpClient, withInterceptorsFromDi } from '@angular/common/http'
 import { FormsModule } from '@angular/forms';
 
 import { AppComponent } from './app.component';
+import { StimulsoftDesignerModule } from 'stimulsoft-designer-angular';
 
 @NgModule({
     declarations: [
@@ -12,6 +13,7 @@ import { AppComponent } from './app.component';
     ],
     bootstrap: [AppComponent], imports: [BrowserModule,
         StimulsoftViewerModule,
+        StimulsoftDesignerModule,
         FormsModule],
     providers: [provideExperimentalZonelessChangeDetection(), provideHttpClient(withInterceptorsFromDi())]
 })
