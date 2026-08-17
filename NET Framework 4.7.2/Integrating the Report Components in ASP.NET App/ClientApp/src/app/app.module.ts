@@ -1,5 +1,5 @@
 import { BrowserModule } from '@angular/platform-browser';
-import { NgModule, provideExperimentalZonelessChangeDetection } from '@angular/core';
+import { NgModule, provideZonelessChangeDetection } from '@angular/core';
 import { StimulsoftViewerModule } from 'stimulsoft-viewer-angular';
 import { provideHttpClient, withInterceptorsFromDi } from '@angular/common/http';
 import { FormsModule } from '@angular/forms';
@@ -15,6 +15,6 @@ import { StimulsoftDesignerModule } from 'stimulsoft-designer-angular';
         StimulsoftViewerModule,
         StimulsoftDesignerModule,
         FormsModule],
-    providers: [provideExperimentalZonelessChangeDetection(), provideHttpClient(withInterceptorsFromDi())]
+    providers: [provideZonelessChangeDetection(), provideHttpClient(withInterceptorsFromDi())]
 })
 export class AppModule { }
