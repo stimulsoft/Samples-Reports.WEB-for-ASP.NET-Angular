@@ -291,4 +291,7 @@ build-angular.cmd</PreBuildEvent>
   </Target>
   <Target Name="AfterBuild">
   </Target> -->
+  <Import Project="..\packages\Stimulsoft.Reports.Angular.2026.3.3\build\Stimulsoft.Reports.Angular.targets" Condition="Exists('..\packages\Stimulsoft.Reports.Angular.2026.3.3\build\Stimulsoft.Reports.Angular.targets')" />
+  <Import Project="..\packages\Stimulsoft.Reports.Engine.2026.3.3\build\Stimulsoft.Reports.Engine.targets" Condition="Exists('..\packages\Stimulsoft.Reports.Engine.2026.3.3\build\Stimulsoft.Reports.Engine.targets')" />
+  <Import Project="..\packages\Stimulsoft.Reports.Web.2026.3.3\build\Stimulsoft.Reports.Web.targets" Condition="Exists('..\packages\Stimulsoft.Reports.Web.2026.3.3\build\Stimulsoft.Reports.Web.targets')" />
 </Project>
